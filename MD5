@@ -1,5 +1,5 @@
-a7baa2323358687a307aa78e5df29f84 *DESCRIPTION
-3c38a8d5fd00cb6d4a69d2035c8e43c2 *NAMESPACE
+d32b992a2d3c3cceda5daab34c5b0a4e *DESCRIPTION
+669421429479e5274b582ca7ae977847 *NAMESPACE
 b7e4e7bcbadb8085f4303f13c2c71ac0 *R/TCA.R
 b1c0d25162b859d931f8045603912d43 *R/TCE.R
 a0ba1eebb114a4676e35db3a7f63421c *R/gnsc.cv.R
@@ -18,10 +18,10 @@ e127378a53b72b99000428b737623273 *R/plot.gnsccv.R
 7e14bcfb0abc32b3da125b57ed83f45d *R/print.gnsc.R
 7d99f422bf5557ea460ca3a8522ba18b *R/print.gnsccv.R
 67cd30e235bc3f82cfd9b04159075c55 *R/smart.npn.R
-59a0a7a8017d1cff2f1e55b002948cbf *man/TCA.Rd
-bd97837b0d2fe5fad864a6d2bb901e60 *man/TCE.Rd
+c05e99bb42e51ffb90f59d8429416cdf *man/TCA.Rd
+8065ed36968d47ba9f16c1c0c9903af7 *man/TCE.Rd
 dd81cc09fcd89493bdfd790121ad257b *man/gnsc.cv.Rd
-583092db7b463ae331e92b2c96cd29ec *man/gnsc.train.Rd
+20a2b910c27ada8c1ddda4e30c5c8a58 *man/gnsc.train.Rd
 b79c9b06a4564c3a702ea9f558126e3d *man/plot.TCA.Rd
 3429124f658a44a6849e4f3358ff2fef *man/plot.TCE.Rd
 f13bf69fc58433180c8caf60de5361ce *man/plot.gnsc.Rd

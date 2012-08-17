@@ -1,4 +1,11 @@
-import("huge","gplots","mvtnorm","PMA","pcaPP")
+#import("huge",igraph)
+importFrom(gplots, greenred)
+importFrom(gtools, invalid)
+importFrom(PMA, SPC)
+importFrom(elasticnet, spca)
+importFrom(pcaPP, cor.fk)
+importFrom(Matrix, Matrix)
+importFrom(igraph, graph.adjacency, layout.fruchterman.reingold)
 export(gnsc.train, 
     gnsc.cv, 
     TCA, 

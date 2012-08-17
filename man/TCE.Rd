@@ -64,6 +64,7 @@ Fang Han, Han Liu \cr
 Maintainer: Fang Han<fhan@jhsph.edu>
 }
 \examples{
+require(huge)
 L = huge.generator(n = 200, d = 80, graph = "hub")
 out = TCE(L$data,method="kendall")
 out

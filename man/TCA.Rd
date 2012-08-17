@@ -8,7 +8,8 @@ Transelliptical Component Analysis
 A function to conduct Transelliptical Component Analysis
 }
 \usage{
-TCA(x, K, para, method = "kendall", algorithm = "tp", max.iter = 200, verbose = TRUE, eps.conv = 0.001)
+TCA(x, K, para, method = "kendall", algorithm = "tp", max.iter = 200,
+    verbose = TRUE, eps.conv = 0.001)
 }
 %- maybe also 'usage' for other objects documented here.
 \arguments{

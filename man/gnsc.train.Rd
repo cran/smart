@@ -8,7 +8,8 @@ gnsc.train
 A function to conduct the Group Nearest Shrunken Centroid Classifier
 }
 \usage{
-gnsc.train(x, col.struc = NULL, row.struc = NULL, standardize = T, nlambda = NULL, lambda.max = 10, lambda = NULL, verbose = TRUE)
+gnsc.train(x, col.struc = NULL, row.struc = NULL, standardize = T,
+           nlambda = NULL, lambda.max = 10, lambda = NULL, verbose = TRUE)
 }
 %- maybe also 'usage' for other objects documented here.
 \arguments{
