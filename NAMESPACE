@@ -1,0 +1,20 @@
+import("huge","gplots","mvtnorm","PMA","pcaPP")
+export(gnsc.train, 
+    gnsc.cv, 
+    TCA, 
+	TCE,
+
+	print.gnsc,plot.gnsc,
+	print.gnsccv,plot.gnsccv,
+	print.TCA,plot.TCA,
+	print.TCE,plot.TCE
+)
+
+S3method("print","gnsc")
+S3method("plot","gnsc")
+S3method("print","gnsccv")
+S3method("plot","gnsccv")
+S3method("print","TCA")
+S3method("plot","TCA")
+S3method("print","TCE")
+S3method("plot","TCE")
